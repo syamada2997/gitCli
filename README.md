@@ -1,2 +1,3 @@
 "# GitCil" 
-"README.md�ɒǋL" 
+"README.md ADDING"
+"README.md fetch merge"
